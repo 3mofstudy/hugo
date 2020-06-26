@@ -1,0 +1,23 @@
+---
+title : "Hugo 文章開頭格式"
+date :  2020-06-26T10:07:47+08:00 
+draft: false  # draft定義 是否是草稿
+
+# post thumb
+image: ""
+
+# meta description
+description: "這是描述"
+
+# 分類
+
+categories:
+    - "心得"
+tags: 
+    - "Photos"
+    - "Game"
+    
+#post type
+type: "post"
+
+---
